@@ -48,7 +48,7 @@ A lightweight web application for **Mr. & Ms. President University 2026** finali
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mmpuRegistration.git
+git clone https://github.com/jjiyyaaa/mmpuRegistration.git
 cd mmpuRegistration
 ```
 

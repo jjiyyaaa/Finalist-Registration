@@ -1,0 +1,10 @@
+# Ignore uploaded CV files and runtime files
+uploads/
+
+# Ignore local database config if you move credentials there
+.env
+config.php
+
+# OS files
+.DS_Store
+Thumbs.db
